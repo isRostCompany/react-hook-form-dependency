@@ -1,0 +1,27 @@
+{
+  "name": "@isRostCompany/react-hook-form-dependency",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rm -rf ./dist && tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isRostCompany/react-hook-form-dependency.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isRostCompany/react-hook-form-dependency/issues"
+  },
+  "homepage": "https://github.com/isRostCompany/react-hook-form-dependency#readme",
+  "peerDependencies": {
+    "react-hook-form": "^7.30.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
